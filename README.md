@@ -1,10 +1,3 @@
 ### helo
 
-- 🔭 i am luhprhoia
-- 🌱 luphorau is my name
-- 👯 i am a homeosexual
-- 🤔 help
-- 💬 https://luphoria.com
-- 📫 oi am luphoria@
-- 😄 i am not very hapyp
-- ⚡ lighthinh
+i am going to probably make some snazzy gif or APNG or something for this readme someday 
