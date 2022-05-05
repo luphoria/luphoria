@@ -1,7 +1,7 @@
 # luphoria
 I develop things for myself and then make sure you can use them too.
 
-Fan of [instantOS](https://instantos.io), [[matrix]](https://matrix.org), [Ada](https://www.adacore.com), [TitaniumNetwork](https://github.com/TitaniumNetwork), but most importantly, [samy](https://github.com/samyk) is my hero
+Fan of [instantOS](https://instantos.io), [[matrix]](https://matrix.org), [Ada](https://www.adacore.com), [TitaniumNetwork](https://github.com/TitaniumNetwork-dev), but most importantly, [samy](https://github.com/samyk) is my hero
 
 ## work i'm proud of
 **[graim](https://github.com/luphoria/graim)**: moderate a community that is on both [matrix] and Discord
