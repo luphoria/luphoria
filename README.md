@@ -8,7 +8,5 @@ Fan of [instantOS](https://instantos.io), [[matrix]](https://matrix.org), [Ada](
 
 **[hypertabs](https://github.com/B3ATDROP3R/Hypertabs)**: browse the web... in your browser!
 
-**[namco museum js](https://github.com/luphoria/namcomuseum-js)**: porting Namco Museum from PS1, to the browser
-
 ## social
 Contact me by [email](mailto:hi@luphoria.com) or discord (`luphoria`) :)
